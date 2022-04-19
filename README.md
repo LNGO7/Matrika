@@ -1,2 +1,1 @@
-# Matrika
-Školní ReactJS projekt
+#School ReactJS project

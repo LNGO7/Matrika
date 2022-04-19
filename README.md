@@ -1,1 +1,1 @@
-#School ReactJS project
+# School ReactJS project
